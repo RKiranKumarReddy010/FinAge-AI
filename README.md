@@ -1,3 +1,3 @@
-Finage model :
-Download the llm from ollama: - 
+Finage model :<br>
+Download the llm from ollama: -<br> 
 https://ollama.com/KiranKumarReddy/Finage
